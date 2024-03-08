@@ -70,7 +70,7 @@ export const RightPanel = styled.div`
 export const FormBlock = styled.div`
     max-width: 400px;
     width: 100%;
-    margin: 50px auto 0 auto;
+    margin: 25px auto 0 auto;
 `;
 
 export const Title = styled.div`
@@ -84,7 +84,7 @@ export const Title = styled.div`
 export const FormGroup = styled.div`
     margin-bottom: 20px;
     &:first-child {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 `;
 
